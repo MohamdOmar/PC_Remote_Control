@@ -1,8 +1,7 @@
 # PC_Remote_Control
 Controlling PC remotely by mobile application via socket programming 
 
-C++ application that gives the access to your PC throw mobile application "TCP UDP Server & Client" 
-it works as a client for the server 
+C++ application that gives the access to your PC throw mobile application "TCP UDP Server & Client" which works as a client for the server 
 
 The server send a list of command options and then listen to the client response
 
